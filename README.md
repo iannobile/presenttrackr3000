@@ -2,7 +2,7 @@
 "8 meters! 6 six meters! 5 meters man, it's reading right in the room!"
 
 ## Description
-The easiest in present location tracking, PresentTrakr3000 is an Android application that allows you to mark the location of presents (not aliens) on a map and then navigate to them.
+The easiest way to track your presents, PresentTrakr3000 is an Android application that allows you to mark the location of presents (not aliens) on a map and then navigate to them.
 Each step taken plays a ping sound, and when the present (again, not alien) is located and selected on the map it plays a tune and removes the present from the map.
 
 ## Notes:
